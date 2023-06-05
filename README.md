@@ -1,11 +1,11 @@
-#Data Science Portfolio - Predicting Birth Rates among Girls under 15 using Backpropagation Algorithm
+# Data Science Portfolio - Predicting Birth Rates among Girls under 15 using Backpropagation Algorithm
 
 This repository was my first project data science that focused on predicting birth rates among girls under 15 using the backpropagation algorithm. The project aims to analyze various factors and their impact on birth rates, and develop a predictive model to estimate birth rates for different regions or populations.
 
-##Dataset
+## Dataset
 The dataset used for this project contains information on various factors that may influence the birth rate in girls under 15. The dataset includes features such as month, year, and province. The target variable is the actual birth rate in each observation.
 
-##Project Structure
+## Project Structure
 The project is organized into the following directories and files:
   
 1.data: This directory contains the dataset used for training and evaluation.
@@ -14,7 +14,7 @@ The project is organized into the following directories and files:
 4.reports: This directory contains the project report and any other relevant documentation.
 5.README.md: This file provides an overview of the project, its objectives, and instructions for running the code.
 
-##Project Workflow
+## Project Workflow
 The project workflow can be summarized as follows:
 
 1. Data Acquisition: Identify and collect relevant data sources from bps websites.
@@ -23,10 +23,14 @@ The project workflow can be summarized as follows:
 4. Modelling: Implement the backpropagation algorithm to train a neural network model for predicting the birth rate. 
 5. Evaluation: Evaluate the trained model using appropriate evaluation metrics such as mean squared error, accuracy, or any other relevant metrics. Analyze the model's performance and make necessary adjustments if required.
 
-##Conclusion
+## Conclusion
 This portfolio project demonstrates the application of the backpropagation algorithm for predicting the birth rate in girls under 15 years old. By developing an accurate predictive model, this project aims to contribute to the understanding of factors that influence birth rates and potentially assist in making informed decisions related to healthcare and social policies.
 
 Please refer to the project documentation and code for more detailed information. If you have any questions or feedback, feel free to reach me out at:
-Email: karianah10@gmail.com
-Linkedin: 
+
+
+Email: karianah10@gmail.com 
+
+Linkedin:
+
 
